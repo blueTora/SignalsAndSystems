@@ -1,4 +1,4 @@
-# Music Recognition using Fourier Transform
+  # Music Recognition using Fourier Transform (from Scratch)
 Spring 2021
 
 Welcome to the Music Recognition project! This software utilizes the power of Fourier Transform, combined with concepts from signals and systems science, to identify the songs to which individual pieces of music belong. Similar to popular applications like Shazam, this code allows you to analyze audio samples and recognize the corresponding songs accurately.
@@ -11,11 +11,12 @@ Music recognition has become an essential feature in today's digital age. With t
 
 The music recognition algorithm implemented in this code follows these key steps:
 
-1. **Preprocessing**
-2. **Segmentation**
-3. **Feature Extraction**
-4. **Pattern Matching**
-5. **Recognition**
+1. **Audio Preprocessing**
+2. **Fourier Transform**
+3. **Spectrogram Generation**
+4. **Feature Extraction**
+5. **Song Matching**
+6. **Song Identification**
 
 ## Limitations
 
